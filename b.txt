@@ -1,4 +1,14 @@
-#include <stdio.h>
+
+#include <stdio.h> // not include.h
+
+int cubeByReference (int* n); 
+
+#include <stdio.h> // not studio.h
+
+int cubeByValue(int n);
+feature2
+
 int main(){
+
     return 0;
 }
